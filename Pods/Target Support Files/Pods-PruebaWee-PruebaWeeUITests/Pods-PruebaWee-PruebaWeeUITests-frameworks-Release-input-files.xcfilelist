@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-PruebaWee-PruebaWeeUITests/Pods-PruebaWee-PruebaWeeUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
